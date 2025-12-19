@@ -1,0 +1,7 @@
+{
+  "name": "Lumina Message Intelligence",
+  "description": "A high-performance personal message organizer powered by Gemini NLP to automatically categorize and extract key information from your daily texts, emails, and alerts.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
